@@ -1,5 +1,5 @@
-public class Operadores {
-    public static void main (String [] args) {
+public class TiposOperadores {
+    public static void main(String[] args) throws Exception {
         //Concatenação de Strings
         String nomeCompleto = "LINGUAGEM" + "JAVA";
         System.out.println(nomeCompleto);
